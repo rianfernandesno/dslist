@@ -2,7 +2,8 @@ API que retorna uma lista de jogos, seguindo boas práticas e utilizando a cria�
 
 **Tecnologias**
 + Spring Boot
-+ Spring Data MVC
++ Spring MVC
++ Spring Data JPA
 + PostgreSQL
 
 **Práticas adotadas**
